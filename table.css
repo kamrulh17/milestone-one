@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid lightblue;
+    padding: 10px 20px;
+}
+#colspan, #rowspan{
+    border: 3px solid red ;
+}
